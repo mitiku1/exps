@@ -1,0 +1,1 @@
+emotions={0:"ANGRY",1:"DISGUST",2:"FEAR",3:"HAPPY",4:"SAD",5:"SURPRISE",6:"NEUTRAL"}
